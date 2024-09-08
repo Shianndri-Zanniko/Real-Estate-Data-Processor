@@ -42,7 +42,7 @@ Upon running the application, you will be presented with a menu:
 3. **Sort Data**
     - Allows you to sort the data in ascending or descending order based on a chosen column.
 4. **Export Data**
-    - (Currently not implemented) Placeholder for future functionality to export data.
+    - Prompts for the filename to export the data.
 5. **Exit**
     - Exits the application.
 
