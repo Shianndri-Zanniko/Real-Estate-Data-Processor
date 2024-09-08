@@ -232,7 +232,6 @@ void swap(data* xp, data* yp)
     *yp = temp;
 }
  
-//sorry pak merge sortnya tidak bisa sudah di coba tapi error terus
 void bubbleSort(data arr[], int n, int col, int order)
 {
     int i, j;
